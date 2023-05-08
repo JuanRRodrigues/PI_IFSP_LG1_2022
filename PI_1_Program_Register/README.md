@@ -1,4 +1,4 @@
-# program_PI_1
+# Program_PI_1
 
 This is a C program for a people registration system that allows the user to input, modify, delete, and search for information stored in arrays. Here are the main parts of the code:
 
